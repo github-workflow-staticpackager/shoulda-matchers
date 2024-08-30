@@ -10,7 +10,7 @@
 
 [![shoulda-matchers][logo]][website]
 
-[logo]: https://matchers.shoulda.io/images/shoulda-matchers-logo.png
+[logo]: https://matchers.shoulda.io/images/shoulda-matchers-logo.png                
 [website]: https://matchers.shoulda.io/
 
 Shoulda Matchers provides RSpec- and Minitest-compatible one-liners to test
